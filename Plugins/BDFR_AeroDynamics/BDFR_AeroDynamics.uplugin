@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "BDFR AeroDynamics",
+  "Description": "Universal aerial vehicle dynamics framework supporting fixed wing, helicopter, VTOL and multirotor systems.",
+  "Category": "Physics",
+  "CreatedBy": "BDFR",
+  "Modules": [
+    {
+      "Name": "BDFRAeroDynamics",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
